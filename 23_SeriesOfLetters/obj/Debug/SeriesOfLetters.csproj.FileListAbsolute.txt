@@ -1,0 +1,7 @@
+C:\Users\Jivka\Desktop\String\SeriesOfLetters\bin\Debug\SeriesOfLetters.exe.config
+C:\Users\Jivka\Desktop\String\SeriesOfLetters\bin\Debug\SeriesOfLetters.exe
+C:\Users\Jivka\Desktop\String\SeriesOfLetters\bin\Debug\SeriesOfLetters.pdb
+C:\Users\Jivka\Desktop\String\SeriesOfLetters\obj\Debug\SeriesOfLetters.csprojResolveAssemblyReference.cache
+C:\Users\Jivka\Desktop\String\SeriesOfLetters\obj\Debug\SeriesOfLetters.csproj.CoreCompileInputs.cache
+C:\Users\Jivka\Desktop\String\SeriesOfLetters\obj\Debug\SeriesOfLetters.exe
+C:\Users\Jivka\Desktop\String\SeriesOfLetters\obj\Debug\SeriesOfLetters.pdb

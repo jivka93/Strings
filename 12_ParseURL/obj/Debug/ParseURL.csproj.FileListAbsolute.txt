@@ -1,0 +1,7 @@
+C:\Users\Jivka\Desktop\String\ParseURL\bin\Debug\ParseURL.exe.config
+C:\Users\Jivka\Desktop\String\ParseURL\bin\Debug\ParseURL.exe
+C:\Users\Jivka\Desktop\String\ParseURL\bin\Debug\ParseURL.pdb
+C:\Users\Jivka\Desktop\String\ParseURL\obj\Debug\ParseURL.csprojResolveAssemblyReference.cache
+C:\Users\Jivka\Desktop\String\ParseURL\obj\Debug\ParseURL.csproj.CoreCompileInputs.cache
+C:\Users\Jivka\Desktop\String\ParseURL\obj\Debug\ParseURL.exe
+C:\Users\Jivka\Desktop\String\ParseURL\obj\Debug\ParseURL.pdb

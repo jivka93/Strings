@@ -1,0 +1,7 @@
+C:\Users\Jivka\Documents\Visual Studio 2017\Projects\String\SubstringInAText\bin\Debug\SubstringInAText.exe.config
+C:\Users\Jivka\Documents\Visual Studio 2017\Projects\String\SubstringInAText\bin\Debug\SubstringInAText.exe
+C:\Users\Jivka\Documents\Visual Studio 2017\Projects\String\SubstringInAText\bin\Debug\SubstringInAText.pdb
+C:\Users\Jivka\Documents\Visual Studio 2017\Projects\String\SubstringInAText\obj\Debug\SubstringInAText.csprojResolveAssemblyReference.cache
+C:\Users\Jivka\Documents\Visual Studio 2017\Projects\String\SubstringInAText\obj\Debug\SubstringInAText.csproj.CoreCompileInputs.cache
+C:\Users\Jivka\Documents\Visual Studio 2017\Projects\String\SubstringInAText\obj\Debug\SubstringInAText.exe
+C:\Users\Jivka\Documents\Visual Studio 2017\Projects\String\SubstringInAText\obj\Debug\SubstringInAText.pdb

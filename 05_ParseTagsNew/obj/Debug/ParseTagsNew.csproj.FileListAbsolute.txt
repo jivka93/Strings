@@ -1,0 +1,7 @@
+C:\Users\Jivka\Desktop\String\ParseTagsNew\bin\Debug\ParseTagsNew.exe.config
+C:\Users\Jivka\Desktop\String\ParseTagsNew\bin\Debug\ParseTagsNew.exe
+C:\Users\Jivka\Desktop\String\ParseTagsNew\bin\Debug\ParseTagsNew.pdb
+C:\Users\Jivka\Desktop\String\ParseTagsNew\obj\Debug\ParseTagsNew.csprojResolveAssemblyReference.cache
+C:\Users\Jivka\Desktop\String\ParseTagsNew\obj\Debug\ParseTagsNew.csproj.CoreCompileInputs.cache
+C:\Users\Jivka\Desktop\String\ParseTagsNew\obj\Debug\ParseTagsNew.exe
+C:\Users\Jivka\Desktop\String\ParseTagsNew\obj\Debug\ParseTagsNew.pdb

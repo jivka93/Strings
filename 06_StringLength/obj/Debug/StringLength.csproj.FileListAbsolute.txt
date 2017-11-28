@@ -1,0 +1,7 @@
+C:\Users\Jivka\Desktop\String\StringLength\bin\Debug\StringLength.exe.config
+C:\Users\Jivka\Desktop\String\StringLength\bin\Debug\StringLength.exe
+C:\Users\Jivka\Desktop\String\StringLength\bin\Debug\StringLength.pdb
+C:\Users\Jivka\Desktop\String\StringLength\obj\Debug\StringLength.csprojResolveAssemblyReference.cache
+C:\Users\Jivka\Desktop\String\StringLength\obj\Debug\StringLength.csproj.CoreCompileInputs.cache
+C:\Users\Jivka\Desktop\String\StringLength\obj\Debug\StringLength.exe
+C:\Users\Jivka\Desktop\String\StringLength\obj\Debug\StringLength.pdb

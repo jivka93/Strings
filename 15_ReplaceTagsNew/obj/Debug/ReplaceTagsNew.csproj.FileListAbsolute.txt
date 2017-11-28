@@ -1,0 +1,7 @@
+C:\Users\Jivka\Desktop\String\ReplaceTagsNew\bin\Debug\ReplaceTagsNew.exe.config
+C:\Users\Jivka\Desktop\String\ReplaceTagsNew\bin\Debug\ReplaceTagsNew.exe
+C:\Users\Jivka\Desktop\String\ReplaceTagsNew\bin\Debug\ReplaceTagsNew.pdb
+C:\Users\Jivka\Desktop\String\ReplaceTagsNew\obj\Debug\ReplaceTagsNew.csprojResolveAssemblyReference.cache
+C:\Users\Jivka\Desktop\String\ReplaceTagsNew\obj\Debug\ReplaceTagsNew.csproj.CoreCompileInputs.cache
+C:\Users\Jivka\Desktop\String\ReplaceTagsNew\obj\Debug\ReplaceTagsNew.exe
+C:\Users\Jivka\Desktop\String\ReplaceTagsNew\obj\Debug\ReplaceTagsNew.pdb

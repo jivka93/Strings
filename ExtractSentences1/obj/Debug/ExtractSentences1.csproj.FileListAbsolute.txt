@@ -1,0 +1,7 @@
+C:\Users\Jivka\Desktop\String\ExtractSentences1\bin\Debug\ExtractSentences1.exe.config
+C:\Users\Jivka\Desktop\String\ExtractSentences1\bin\Debug\ExtractSentences1.exe
+C:\Users\Jivka\Desktop\String\ExtractSentences1\bin\Debug\ExtractSentences1.pdb
+C:\Users\Jivka\Desktop\String\ExtractSentences1\obj\Debug\ExtractSentences1.csprojResolveAssemblyReference.cache
+C:\Users\Jivka\Desktop\String\ExtractSentences1\obj\Debug\ExtractSentences1.csproj.CoreCompileInputs.cache
+C:\Users\Jivka\Desktop\String\ExtractSentences1\obj\Debug\ExtractSentences1.exe
+C:\Users\Jivka\Desktop\String\ExtractSentences1\obj\Debug\ExtractSentences1.pdb

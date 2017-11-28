@@ -1,0 +1,7 @@
+C:\Users\Jivka\Documents\Visual Studio 2017\Projects\String\CorrectBrackets\bin\Debug\CorrectBrackets.exe.config
+C:\Users\Jivka\Documents\Visual Studio 2017\Projects\String\CorrectBrackets\bin\Debug\CorrectBrackets.exe
+C:\Users\Jivka\Documents\Visual Studio 2017\Projects\String\CorrectBrackets\bin\Debug\CorrectBrackets.pdb
+C:\Users\Jivka\Documents\Visual Studio 2017\Projects\String\CorrectBrackets\obj\Debug\CorrectBrackets.csprojResolveAssemblyReference.cache
+C:\Users\Jivka\Documents\Visual Studio 2017\Projects\String\CorrectBrackets\obj\Debug\CorrectBrackets.csproj.CoreCompileInputs.cache
+C:\Users\Jivka\Documents\Visual Studio 2017\Projects\String\CorrectBrackets\obj\Debug\CorrectBrackets.exe
+C:\Users\Jivka\Documents\Visual Studio 2017\Projects\String\CorrectBrackets\obj\Debug\CorrectBrackets.pdb

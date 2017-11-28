@@ -1,0 +1,14 @@
+C:\Users\Jivka\Documents\Visual Studio 2017\Projects\String\ParseTags1\bin\Debug\ParseTags1.exe.config
+C:\Users\Jivka\Documents\Visual Studio 2017\Projects\String\ParseTags1\bin\Debug\ParseTags1.exe
+C:\Users\Jivka\Documents\Visual Studio 2017\Projects\String\ParseTags1\bin\Debug\ParseTags1.pdb
+C:\Users\Jivka\Documents\Visual Studio 2017\Projects\String\ParseTags1\obj\Debug\ParseTags1.csprojResolveAssemblyReference.cache
+C:\Users\Jivka\Documents\Visual Studio 2017\Projects\String\ParseTags1\obj\Debug\ParseTags1.csproj.CoreCompileInputs.cache
+C:\Users\Jivka\Documents\Visual Studio 2017\Projects\String\ParseTags1\obj\Debug\ParseTags1.exe
+C:\Users\Jivka\Documents\Visual Studio 2017\Projects\String\ParseTags1\obj\Debug\ParseTags1.pdb
+C:\Users\Jivka\Desktop\String\ParseTags1\bin\Debug\ParseTags1.exe.config
+C:\Users\Jivka\Desktop\String\ParseTags1\bin\Debug\ParseTags1.exe
+C:\Users\Jivka\Desktop\String\ParseTags1\bin\Debug\ParseTags1.pdb
+C:\Users\Jivka\Desktop\String\ParseTags1\obj\Debug\ParseTags1.csprojResolveAssemblyReference.cache
+C:\Users\Jivka\Desktop\String\ParseTags1\obj\Debug\ParseTags1.csproj.CoreCompileInputs.cache
+C:\Users\Jivka\Desktop\String\ParseTags1\obj\Debug\ParseTags1.exe
+C:\Users\Jivka\Desktop\String\ParseTags1\obj\Debug\ParseTags1.pdb
